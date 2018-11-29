@@ -15,7 +15,7 @@
 
 var utils = {
   debug: require('debug'),
-  'is-registered': require('is-registered'),
+  isRegistered: require('is-registered'),
   isValid: require('is-valid-instance')
 };
 
